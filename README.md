@@ -1,19 +1,25 @@
 # vue-demo
 
-## Project setup
-```
-npm install
+第三次作业
+
+要运行里面的数据，请先下载article.json，然后再利用
+
+
+
+```js
+npm install json-server
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+
+
+安装json-server，最后再用
+
+
+
+```js
+json-server --watch article.json --port 8081
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+运行数据即可
