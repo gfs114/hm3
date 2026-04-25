@@ -7,7 +7,7 @@
 
 
 ```js
-npm install json-server
+npm install -g json-server
 ```
 
 
