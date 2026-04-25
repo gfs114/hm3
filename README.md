@@ -1,4 +1,19 @@
-# hm3
+# vue-demo
 
-第三次作业
-数据已经定义在http://localhost:8081/，使用json-server运行即可
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
